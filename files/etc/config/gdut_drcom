@@ -6,6 +6,6 @@ config gdut_drcom
 	option enable_crypt '1'
 	option username ''
 	option password ''
-	option ifname ''
+	option ifname 'eth0.2'
 	option macaddr ''
 
